@@ -37,7 +37,7 @@ Method: GET
 Response: List of breweries  
 
 Getting Started  
-Clone this repository: git clone https://github.com/your-username/brewery-project.git  
+Clone this repository: git clone https://github.com/SinanUrgunWork/Madde22_Backend_Challenge.git   
 Change into the project directory: cd brewery-project  
 Create a virtual environment: python -m venv venv  
 Activate the virtual environment:  
