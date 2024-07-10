@@ -1,4 +1,4 @@
-# Madde22_Backend_Challenge  
+# Backend_Challenge  
 # Brewery Project  
 
 Welcome to the Brewery Project! This project is a Django web application that allows users to interact with breweries and perform various actions.  
